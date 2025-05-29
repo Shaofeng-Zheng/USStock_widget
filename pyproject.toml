@@ -1,7 +1,7 @@
 [project]
-name = "custom-widget-demo"
+name = "custom-widget-usstock"
 version = "0.1.0"
-description = "Add your description here"
+description = "US Stock Trading Signal Custom Widget"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
